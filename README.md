@@ -1,4 +1,4 @@
-# Data-Mining-course
+# Data-Mining
 Repository containing implementations of:
 * Hierarchical clustering of countries based on their EuroVision votings
 * K-means clustering of languages
